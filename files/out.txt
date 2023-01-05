@@ -1,0 +1,3 @@
+Count: 2
+Detected identifier: var1
+Detected identifier: x
